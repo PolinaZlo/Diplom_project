@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Сканер</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="btn_settings">Подключить</string>
+    <string name="edit_settings">Строка подключения</string>
+    <string name="btn_scan">Сканировать код</string>
+    <string name="edit_one">Введите баркод</string>
+    <string name="articul">Артикул: </string>
+    <string name="add_to_price">, -</string>
+    <string name="btn_enter">Вход</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="error_permission">Включите разрешение для камеры</string>
+    <string name="error_editext">Не заполнено поле ввода</string>
+    <string name="error_res1">Ошибочка =(</string>
+    <string name="error_res2">Такого штрих-кода в базе нет</string>
+    <string name="cur_connect">Текущее подключение: </string>
+    <string name="save">Настройки изменены</string>
+    <string name="error_connect">Ошибка подключения. Проверьте настройки</string>
+</resources>
